@@ -6,7 +6,7 @@ nav:
   - Overview: github_does_tools.md
   - Our Tools: our_tools.md
 theme: readthedocs
-  logo: assets/DOES_Logo.png
+
 plugins:
   - mkdocs-video
 
