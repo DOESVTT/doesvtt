@@ -1,4 +1,4 @@
-name: mockup_landingpage 
+name: DOES energy modelling tools 
 on:
   push:
     branches:
