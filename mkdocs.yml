@@ -1,5 +1,6 @@
 site_name: DOES VTT
-site_url: https://www.google.com
+site_url: https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems
+logo: assets/DOES_Logo.png
 nav:
   - Home: index.md
   - Overview: github_does_tools.md
@@ -8,3 +9,6 @@ theme: readthedocs
 
 plugins:
   - mkdocs-video
+
+extra:
+  homepage: https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems
