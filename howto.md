@@ -17,5 +17,8 @@
    ![myimage](.\assets\myimage.svg)
    ```
 
-   
+3. wait for a while that github compiles all the file and the pages should be updated automatically
 
+### Exception
+
+In case you have dynamic links inside your .svg images, you cannot embed the picture as previously mentioned, you would need to copy the xml code from your svg file directly in your markdown file (right click on your svg file and open it in e.g. notepad or similar text editor) . then copy the code from <svg > 
