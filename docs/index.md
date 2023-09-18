@@ -7,7 +7,7 @@
 We operate at the sweet spot between where energy system expertize meets mathematics and programming. Our team consist of nine researchers with years of experience on creating cutting-edge energy system modelling. Our work is in research projects for the benefit of the Finnish and European public authorities, as well as the Nordic industry.
 
 
-![whoarewe](assets\whoarewe.svg)
+![whoarewe](assets/whoarewe.svg)
 
  Here are some of our largest ongoing projects:
 
