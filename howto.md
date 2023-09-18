@@ -14,7 +14,7 @@
 2. Make sure that in the md file you are uploading, you refer to it as 
 
    ```markdown
-   ![myimage](.\assets\myimage.svg)
+   ![myimage](assets/myimage.svg)
    ```
 
 3. wait for a while that github compiles all the file and the pages should be updated automatically
