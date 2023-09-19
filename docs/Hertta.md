@@ -1,6 +1,8 @@
 # Hertta
 
-![Hertta_logo](assets/Hertta_logo.svg)
+<p align="left" width="100%">
+    <img width="33%" src="assets/Hertta_logo.svg"> 
+</p>
 
 # What is it?
 
