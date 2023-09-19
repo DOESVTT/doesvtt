@@ -5,6 +5,7 @@ nav:
   - Home: index.md
   - Overview: github_does_tools.md
   - Our Tools: our_tools.md
+  - Hertta: Hertta.md
 theme: readthedocs
 
 plugins:
