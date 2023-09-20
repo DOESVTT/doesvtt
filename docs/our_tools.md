@@ -11,6 +11,7 @@ Maturity score: 3/5 Availability score: 4/5 Ease of use: 3/5 Level of flexibilit
 
 [github link](https://github.com/spine-tools/Spine-Toolbox)
 
+✔
 
 ![type:video](https://www.youtube.com/embed/Wnd3roUk2IE)
 
