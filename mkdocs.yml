@@ -11,5 +11,12 @@ theme: readthedocs
 plugins:
   - mkdocs-video
 
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
 extra:
   homepage: https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems
