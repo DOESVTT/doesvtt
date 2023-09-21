@@ -13,7 +13,7 @@ There are many open energy system models and modelling frameworks out there. We 
 
 <svg
    style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-   width="460.85675"
+   width="100%"
    height="456.28601"
    version="1.1"
    id="svg254727"
