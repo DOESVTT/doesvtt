@@ -3,7 +3,7 @@
 This table was made based on the data from the following publication : For more information, see the research paper Laveneziana, Lorenzo, Matteo Prussi, and David Chiaramonti. ‘Critical Review of Energy Planning Models for the Sustainable Development at Company Level’. Energy Strategy Reviews 49 (1 September 2023): 101136. [https://doi.org/10.1016/j.esr.2023.101136](https://doi.org/10.1016/j.esr.2023.101136)
 
 <svg
-   width="226.78966mm"
+   width="100%"
    height="1064.6439mm"
    viewBox="0 0 226.78966 1064.6439"
    version="1.1"
