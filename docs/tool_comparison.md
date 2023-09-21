@@ -3,7 +3,7 @@
 This table was made based on the data from the following publication : For more information, see the research paper Laveneziana, Lorenzo, Matteo Prussi, and David Chiaramonti. ‘Critical Review of Energy Planning Models for the Sustainable Development at Company Level’. Energy Strategy Reviews 49 (1 September 2023): 101136. [https://doi.org/10.1016/j.esr.2023.101136](https://doi.org/10.1016/j.esr.2023.101136)
 
 <svg
-   width="100%"
+   width="226.78966mm"
    height="1064.6439mm"
    viewBox="0 0 226.78966 1064.6439"
    version="1.1"
@@ -25,15 +25,15 @@ This table was made based on the data from the following publication : For more 
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.0544998"
-     inkscape:cx="299.66815"
-     inkscape:cy="3628.2606"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="3832"
-     inkscape:window-y="-8"
+     inkscape:zoom="2.9825758"
+     inkscape:cx="226.81737"
+     inkscape:cy="26.822453"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="108"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" /><defs
+     inkscape:current-layer="g60647" /><defs
      id="defs2"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipEmfPath1"><path
@@ -18035,6 +18035,17 @@ This table was made based on the data from the following publication : For more 
              dy="0"
              style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.3125px;font-family:'Times New Roman';fill:#000000"
              id="tspan60599">85</tspan></tspan></text><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.3125px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="228.26042"
+         y="16.145241"
+         id="text60603-0"><tspan
+           sodipodi:role="line"
+           x="228.26042"
+           y="16.145241"
+           id="tspan60601-0">90.5<tspan
+   style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.3125px;font-family:'Times New Roman';fill:#000000"
+   id="tspan60599-3" /></tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.3125px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          transform="translate(75.421732,1.019213)"
