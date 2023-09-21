@@ -1137,4 +1137,4 @@ There are many open energy system models and modelling frameworks out there. We 
            style="fill:#000000;fill-opacity:1"
            id="path35-5" /></g></a></g></svg>
 
-For more information, see the research paper Laveneziana, Lorenzo, Matteo Prussi, and David Chiaramonti. ‘Critical Review of Energy Planning Models for the Sustainable Development at Company Level’. Energy Strategy Reviews 49 (1 September 2023): 101136. https://doi.org/10.1016/j.esr.2023.101136 [https://doi.org/10.1016/j.esr.2023.101136](https://doi.org/10.1016/j.esr.2023.101136)
+For more information, see the research paper Laveneziana, Lorenzo, Matteo Prussi, and David Chiaramonti. ‘Critical Review of Energy Planning Models for the Sustainable Development at Company Level’. Energy Strategy Reviews 49 (1 September 2023): 101136. [https://doi.org/10.1016/j.esr.2023.101136](https://doi.org/10.1016/j.esr.2023.101136)
