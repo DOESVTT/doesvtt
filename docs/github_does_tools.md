@@ -1136,3 +1136,5 @@ There are many open energy system models and modelling frameworks out there. We 
            d="m 1279.4664,792.3994 v -43.0098 h -18.7002 v -21.5898 h 18.7002 v -26.8594 h 23.7988 v 26.8594 h 25.6699 v 21.5898 h -25.6699 v 34.5098 c 0,9.0098 0,20.0605 12.9199,20.0605 4.5908,0 9.0106,-1.3594 12.75,-3.4004 v 21.4199 c -4.7599,2.5508 -11.0499,3.5703 -17.6797,3.5703 -31.7891,0 -31.7891,-23.2891 -31.7891,-33.1504 z"
            style="fill:#000000;fill-opacity:1"
            id="path35-5" /></g></a></g></svg>
+
+For more information, see the research paper Laveneziana, Lorenzo, Matteo Prussi, and David Chiaramonti. ‘Critical Review of Energy Planning Models for the Sustainable Development at Company Level’. Energy Strategy Reviews 49 (1 September 2023): 101136. https://doi.org/10.1016/j.esr.2023.101136 [https://doi.org/10.1016/j.esr.2023.101136](https://doi.org/10.1016/j.esr.2023.101136)
