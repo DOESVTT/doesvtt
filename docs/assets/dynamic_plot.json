@@ -1,5 +1,10 @@
 {
   "layout": {
+    "xaxis": {
+      "title": {
+        "text": "tools"
+      }
+    },
     "template": {
       "layout": {
         "coloraxis": {
@@ -806,6 +811,9 @@
         ]
       }
     },
+    "legend": {
+      "tracegroupgap": 0
+    },
     "margin": {
       "l": 50,
       "b": 50,
@@ -814,7 +822,7 @@
     },
     "yaxis": {
       "title": {
-        "text": "this is y"
+        "text": "rank"
       }
     }
   },
@@ -828,12 +836,49 @@
   "frames": [],
   "data": [
     {
+      "xaxis": "x",
       "y": [
-        1,
-        2,
-        3
+        90.5,
+        85.0,
+        82.0,
+        69.5,
+        69.0,
+        68.5,
+        68.5,
+        66.0,
+        65.5,
+        64.5,
+        64.5,
+        63.0,
+        62.0,
+        59.5,
+        57.0,
+        53.5,
+        50.5,
+        48.0
       ],
-      "type": "scatter"
+      "type": "bar",
+      "yaxis": "y",
+      "x": [
+        "Spineopt",
+        "Backbone",
+        "TIMES",
+        "FINE",
+        "AnyMoD",
+        "urbs",
+        "DER-CAM",
+        "NEMo",
+        "oSeMoSYS",
+        "GENeSYS-MoD",
+        "TEMoA",
+        "Switch",
+        "Calliope",
+        "PyPSA",
+        "oemof (SoLPH)",
+        "Reopt API",
+        "Balmorel",
+        "ficus"
+      ]
     }
   ]
 }
