@@ -815,171 +815,6 @@
         "buttons": [
           {
             "method": "update",
-            "label": "Switch",
-            "args": [
-              {
-                "visible": [
-                  true,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false
-                ]
-              },
-              {
-                "annotations": [],
-                "title": "Switch"
-              }
-            ]
-          },
-          {
-            "method": "update",
-            "label": "NEMo",
-            "args": [
-              {
-                "visible": [
-                  true,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false
-                ]
-              },
-              {
-                "annotations": [],
-                "title": "NEMo"
-              }
-            ]
-          },
-          {
-            "method": "update",
-            "label": "TEMoA",
-            "args": [
-              {
-                "visible": [
-                  true,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false
-                ]
-              },
-              {
-                "annotations": [],
-                "title": "TEMoA"
-              }
-            ]
-          },
-          {
-            "method": "update",
-            "label": "DER-CAM",
-            "args": [
-              {
-                "visible": [
-                  true,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false
-                ]
-              },
-              {
-                "annotations": [],
-                "title": "DER-CAM"
-              }
-            ]
-          },
-          {
-            "method": "update",
-            "label": "FlexTool",
-            "args": [
-              {
-                "visible": [
-                  true,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  true
-                ]
-              },
-              {
-                "annotations": [],
-                "title": "FlexTool"
-              }
-            ]
-          },
-          {
-            "method": "update",
             "label": "TIMES",
             "args": [
               {
@@ -1008,138 +843,6 @@
               {
                 "annotations": [],
                 "title": "TIMES"
-              }
-            ]
-          },
-          {
-            "method": "update",
-            "label": "AnyMoD",
-            "args": [
-              {
-                "visible": [
-                  true,
-                  true,
-                  false,
-                  false,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false
-                ]
-              },
-              {
-                "annotations": [],
-                "title": "AnyMoD"
-              }
-            ]
-          },
-          {
-            "method": "update",
-            "label": "GENeSYS-MoD",
-            "args": [
-              {
-                "visible": [
-                  true,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false
-                ]
-              },
-              {
-                "annotations": [],
-                "title": "GENeSYS-MoD"
-              }
-            ]
-          },
-          {
-            "method": "update",
-            "label": "oemof (SoLPH)",
-            "args": [
-              {
-                "visible": [
-                  true,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false
-                ]
-              },
-              {
-                "annotations": [],
-                "title": "oemof (SoLPH)"
-              }
-            ]
-          },
-          {
-            "method": "update",
-            "label": "PyPSA",
-            "args": [
-              {
-                "visible": [
-                  true,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false
-                ]
-              },
-              {
-                "annotations": [],
-                "title": "PyPSA"
               }
             ]
           },
@@ -1178,7 +881,7 @@
           },
           {
             "method": "update",
-            "label": "oSeMoSYS",
+            "label": "AnyMoD",
             "args": [
               {
                 "visible": [
@@ -1186,11 +889,11 @@
                   true,
                   false,
                   false,
-                  false,
-                  false,
-                  false,
-                  false,
                   true,
+                  false,
+                  false,
+                  false,
+                  false,
                   false,
                   false,
                   false,
@@ -1205,40 +908,7 @@
               },
               {
                 "annotations": [],
-                "title": "oSeMoSYS"
-              }
-            ]
-          },
-          {
-            "method": "update",
-            "label": "ficus",
-            "args": [
-              {
-                "visible": [
-                  true,
-                  true,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
-                  true,
-                  false
-                ]
-              },
-              {
-                "annotations": [],
-                "title": "ficus"
+                "title": "AnyMoD"
               }
             ]
           },
@@ -1277,7 +947,271 @@
           },
           {
             "method": "update",
-            "label": "Balmorel",
+            "label": "DER-CAM",
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              },
+              {
+                "annotations": [],
+                "title": "DER-CAM"
+              }
+            ]
+          },
+          {
+            "method": "update",
+            "label": "NEMo",
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              },
+              {
+                "annotations": [],
+                "title": "NEMo"
+              }
+            ]
+          },
+          {
+            "method": "update",
+            "label": "oSeMoSYS",
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              },
+              {
+                "annotations": [],
+                "title": "oSeMoSYS"
+              }
+            ]
+          },
+          {
+            "method": "update",
+            "label": "GENeSYS-MoD",
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              },
+              {
+                "annotations": [],
+                "title": "GENeSYS-MoD"
+              }
+            ]
+          },
+          {
+            "method": "update",
+            "label": "TEMoA",
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              },
+              {
+                "annotations": [],
+                "title": "TEMoA"
+              }
+            ]
+          },
+          {
+            "method": "update",
+            "label": "Switch",
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              },
+              {
+                "annotations": [],
+                "title": "Switch"
+              }
+            ]
+          },
+          {
+            "method": "update",
+            "label": "Calliope",
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              },
+              {
+                "annotations": [],
+                "title": "Calliope"
+              }
+            ]
+          },
+          {
+            "method": "update",
+            "label": "PyPSA",
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              },
+              {
+                "annotations": [],
+                "title": "PyPSA"
+              }
+            ]
+          },
+          {
+            "method": "update",
+            "label": "oemof (SoLPH)",
             "args": [
               {
                 "visible": [
@@ -1295,16 +1229,16 @@
                   false,
                   false,
                   false,
-                  false,
-                  false,
                   true,
+                  false,
+                  false,
                   false,
                   false
                 ]
               },
               {
                 "annotations": [],
-                "title": "Balmorel"
+                "title": "oemof (SoLPH)"
               }
             ]
           },
@@ -1343,7 +1277,7 @@
           },
           {
             "method": "update",
-            "label": "Calliope",
+            "label": "Balmorel",
             "args": [
               {
                 "visible": [
@@ -1359,18 +1293,84 @@
                   false,
                   false,
                   false,
+                  false,
+                  false,
+                  false,
+                  false,
                   true,
-                  false,
-                  false,
-                  false,
-                  false,
                   false,
                   false
                 ]
               },
               {
                 "annotations": [],
-                "title": "Calliope"
+                "title": "Balmorel"
+              }
+            ]
+          },
+          {
+            "method": "update",
+            "label": "ficus",
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  false
+                ]
+              },
+              {
+                "annotations": [],
+                "title": "ficus"
+              }
+            ]
+          },
+          {
+            "method": "update",
+            "label": "FlexTool",
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true
+                ]
+              },
+              {
+                "annotations": [],
+                "title": "FlexTool"
               }
             ]
           }
@@ -1408,360 +1408,22 @@
       "color": "strength",
       "mode": "lines",
       "type": "scatterpolar",
-      "name": "Backbone",
-      "theta": "tool",
-      "r": [
-        1.0,
-        0.75,
-        0.892857143,
-        0.5625,
-        0.5,
-        0.9375,
-        0.8,
-        0.7,
-        0.857142857,
-        0.4,
-        0.5,
-        0.75,
-        0.458333333
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "Switch",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.6,
-        0.642857143,
-        0.46875,
-        0.285714286,
-        0.8125,
-        0.333333333,
-        0.6,
-        0.571428571,
-        0.2,
-        0.5,
-        0.5,
-        0.458333333
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "NEMo",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.6,
-        0.535714286,
-        0.5,
-        0.428571429,
-        0.6875,
-        0.7,
-        0.5,
-        0.714285714,
-        0.2,
-        0.833333333,
-        0.0,
-        0.541666667
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "TEMoA",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.6,
-        0.428571429,
-        0.375,
-        0.285714286,
-        0.625,
-        0.7,
-        0.5,
-        0.857142857,
-        0.8,
-        0.583333333,
-        0.0,
-        0.666666667
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "DER-CAM",
-      "theta": "tool",
-      "r": [
-        1.0,
-        0.1,
-        0.607142857,
-        0.6875,
-        0.571428571,
-        0.5,
-        0.65,
-        1.0,
-        0.714285714,
-        0.2,
-        0.333333333,
-        0.25,
-        0.625
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "FlexTool",
-      "theta": "tool",
-      "r": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "TIMES",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.8,
-        1.0,
-        0.5625,
-        0.428571429,
-        0.875,
-        0.888888889,
-        0.6,
-        0.571428571,
-        0.4,
-        0.833333333,
-        0.25,
-        0.583333333
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "AnyMoD",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.7,
-        0.571428571,
-        0.5625,
-        0.285714286,
-        0.8125,
-        0.7,
-        0.8,
-        0.428571429,
-        0.0,
-        0.833333333,
-        0.0,
-        0.5
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "GENeSYS-MoD",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.7,
-        0.535714286,
-        0.5625,
-        0.285714286,
-        0.75,
-        0.7,
-        0.5,
-        0.571428571,
-        0.2,
-        0.833333333,
-        0.0,
-        0.333333333
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "oemof (SoLPH)",
-      "theta": "tool",
-      "r": [
-        1.0,
-        0.3,
-        0.321428571,
-        0.625,
-        0.285714286,
-        0.5625,
-        0.8,
-        0.6,
-        0.571428571,
-        0.0,
-        0.333333333,
-        0.25,
-        0.375
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "PyPSA",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.4,
-        0.607142857,
-        0.5625,
-        0.571428571,
-        0.8125,
-        0.333333333,
-        0.4,
-        0.285714286,
-        0.0,
-        0.5,
-        0.25,
-        0.583333333
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "FINE",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.5,
-        0.75,
-        0.75,
-        0.428571429,
-        0.615384615,
-        0.777777778,
-        0.7,
-        0.857142857,
-        0.0,
-        0.5,
-        0.25,
-        0.5
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "oSeMoSYS",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.6,
-        0.392857143,
-        0.5,
-        0.285714286,
-        0.8125,
-        0.7,
-        0.5,
-        0.571428571,
-        0.2,
-        0.833333333,
-        0.0,
-        0.666666667
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "ficus",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.1,
-        0.428571429,
-        0.75,
-        0.0,
-        0.4375,
-        0.5,
-        0.7,
-        0.214285714,
-        0.0,
-        0.333333333,
-        0.25,
-        0.375
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "urbs",
-      "theta": "tool",
-      "r": [
-        0.666666667,
-        0.4,
-        0.535714286,
-        0.5,
-        0.428571429,
-        0.8125,
-        0.8,
-        0.7,
-        0.571428571,
-        0.0,
-        0.666666667,
-        0.25,
-        0.583333333
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
-      "name": "Balmorel",
-      "theta": "tool",
-      "r": [
-        0.333333333,
-        0.55,
-        0.178571429,
-        0.5625,
-        0.285714286,
-        0.5625,
-        0.35,
-        0.5,
-        0.714285714,
-        0.2,
-        0.333333333,
-        0.25,
-        0.333333333
-      ]
-    },
-    {
-      "color": "strength",
-      "mode": "lines",
-      "type": "scatterpolar",
       "name": "Spineopt",
-      "theta": "tool",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
       "r": [
         0.333333333,
         1.0,
@@ -1782,8 +1444,526 @@
       "color": "strength",
       "mode": "lines",
       "type": "scatterpolar",
+      "name": "Backbone",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        1.0,
+        0.75,
+        0.892857143,
+        0.5625,
+        0.5,
+        0.9375,
+        0.8,
+        0.7,
+        0.857142857,
+        0.4,
+        0.5,
+        0.75,
+        0.458333333
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "TIMES",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.333333333,
+        0.8,
+        1.0,
+        0.5625,
+        0.428571429,
+        0.875,
+        0.888888889,
+        0.6,
+        0.571428571,
+        0.4,
+        0.833333333,
+        0.25,
+        0.583333333
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "FINE",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.333333333,
+        0.5,
+        0.75,
+        0.75,
+        0.428571429,
+        0.615384615,
+        0.777777778,
+        0.7,
+        0.857142857,
+        0.0,
+        0.5,
+        0.25,
+        0.5
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "AnyMoD",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.333333333,
+        0.7,
+        0.571428571,
+        0.5625,
+        0.285714286,
+        0.8125,
+        0.7,
+        0.8,
+        0.428571429,
+        0.0,
+        0.833333333,
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "urbs",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.666666667,
+        0.4,
+        0.535714286,
+        0.5,
+        0.428571429,
+        0.8125,
+        0.8,
+        0.7,
+        0.571428571,
+        0.0,
+        0.666666667,
+        0.25,
+        0.583333333
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "DER-CAM",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        1.0,
+        0.1,
+        0.607142857,
+        0.6875,
+        0.571428571,
+        0.5,
+        0.65,
+        1.0,
+        0.714285714,
+        0.2,
+        0.333333333,
+        0.25,
+        0.625
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "NEMo",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.333333333,
+        0.6,
+        0.535714286,
+        0.5,
+        0.428571429,
+        0.6875,
+        0.7,
+        0.5,
+        0.714285714,
+        0.2,
+        0.833333333,
+        0.0,
+        0.541666667
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "oSeMoSYS",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.333333333,
+        0.6,
+        0.392857143,
+        0.5,
+        0.285714286,
+        0.8125,
+        0.7,
+        0.5,
+        0.571428571,
+        0.2,
+        0.833333333,
+        0.0,
+        0.666666667
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "GENeSYS-MoD",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.333333333,
+        0.7,
+        0.535714286,
+        0.5625,
+        0.285714286,
+        0.75,
+        0.7,
+        0.5,
+        0.571428571,
+        0.2,
+        0.833333333,
+        0.0,
+        0.333333333
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "TEMoA",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.333333333,
+        0.6,
+        0.428571429,
+        0.375,
+        0.285714286,
+        0.625,
+        0.7,
+        0.5,
+        0.857142857,
+        0.8,
+        0.583333333,
+        0.0,
+        0.666666667
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "Switch",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.333333333,
+        0.6,
+        0.642857143,
+        0.46875,
+        0.285714286,
+        0.8125,
+        0.333333333,
+        0.6,
+        0.571428571,
+        0.2,
+        0.5,
+        0.5,
+        0.458333333
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "Calliope",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        1.0,
+        0.3,
+        0.615384615,
+        0.625,
+        0.285714286,
+        0.5,
+        0.6,
+        0.6,
+        0.571428571,
+        0.4,
+        0.333333333,
+        0.0,
+        0.666666667
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "PyPSA",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.333333333,
+        0.4,
+        0.607142857,
+        0.5625,
+        0.571428571,
+        0.8125,
+        0.333333333,
+        0.4,
+        0.285714286,
+        0.0,
+        0.5,
+        0.25,
+        0.583333333
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "oemof (SoLPH)",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        1.0,
+        0.3,
+        0.321428571,
+        0.625,
+        0.285714286,
+        0.5625,
+        0.8,
+        0.6,
+        0.571428571,
+        0.0,
+        0.333333333,
+        0.25,
+        0.375
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
       "name": "Reopt API",
-      "theta": "tool",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
       "r": [
         0.333333333,
         0.1,
@@ -1804,22 +1984,108 @@
       "color": "strength",
       "mode": "lines",
       "type": "scatterpolar",
-      "name": "Calliope",
-      "theta": "tool",
+      "name": "Balmorel",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
       "r": [
-        1.0,
-        0.3,
-        0.615384615,
-        0.625,
-        0.285714286,
-        0.5,
-        0.6,
-        0.6,
-        0.571428571,
-        0.4,
         0.333333333,
+        0.55,
+        0.178571429,
+        0.5625,
+        0.285714286,
+        0.5625,
+        0.35,
+        0.5,
+        0.714285714,
+        0.2,
+        0.333333333,
+        0.25,
+        0.333333333
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "ficus",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0.333333333,
+        0.1,
+        0.428571429,
+        0.75,
         0.0,
-        0.666666667
+        0.4375,
+        0.5,
+        0.7,
+        0.214285714,
+        0.0,
+        0.333333333,
+        0.25,
+        0.375
+      ]
+    },
+    {
+      "color": "strength",
+      "mode": "lines",
+      "type": "scatterpolar",
+      "name": "FlexTool",
+      "theta": [
+        "objective function",
+        "Temporal representation ",
+        "Technical representation of \ntechnologies",
+        "Technical representation of storage",
+        "Technical representation of networks",
+        "Costs",
+        "Demand and demand management",
+        "Electricity sale/purchase tariffs",
+        "Targets and constraints",
+        "Uncertainties",
+        "other",
+        "Advanced operation",
+        "Availability and usability"
+      ],
+      "r": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     }
   ]
