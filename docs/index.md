@@ -20,6 +20,6 @@ Some of our reference work includes:
 - Nordic energy system model for Backbone
 - ...
 
-For full list of our ongoing and past projects, please visit: LINK TO PURE
+For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
 
 Want to know more? Contact us at [does-info@vtt.fi](mailto:does-info@vtt.fi)
