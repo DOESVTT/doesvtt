@@ -2,7 +2,7 @@
 
 ## [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox)
 
-<img src="assets/MOPO_logo_spinetoolbox.svg" alt="logo_toolbox" width="50%"/>
+<object data="assets/MOPO_logo_spinetoolbox.svg" alt="logo_toolbox" width="50%"/>
 
 1. Graphical user interface for maintaining repeatable workflows from input data to different modelling tools and visualizing results
 2. Tools to transform data, data structures, and data formats
