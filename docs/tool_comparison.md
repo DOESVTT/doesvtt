@@ -6,7 +6,7 @@ This table was made based on the data from the following publication : For more 
 ```
 <svg
    width="100%"
-   height="1064.6439mm"
+   height="100%"
    viewBox="0 0 226.78966 1064.6439"
    version="1.1"
    id="svg5"
