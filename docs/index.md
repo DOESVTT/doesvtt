@@ -1,4 +1,5 @@
-# The Design and Operation of Energy Systems Team at VTT - who are we?
+# The Design and Operation of Energy Systems Team at VTT 
+## who are we?
 
 *'Design and Operation of Energy Systems' team at VTT Finland is developing state-of-the-art open optimization models for 100% sustainable energy systems*
 
@@ -9,15 +10,18 @@ We operate at the sweet spot between where energy system expertize meets mathema
 
 ![whoarewe](assets/whoarewe.svg)
 
+## Our current research project
  Here are some of our largest ongoing research projects:
 ![whoarewe](assets/Project_map.svg)
 
 Some of our reference work includes:
 
+## References
 - Nordic energy system model for Backbone
 - European Energy system model
 - Baltic model 
 
+## List of publications
 For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
 
 Want to know more? Contact us at [does-info@vtt.fi](mailto:does-info@vtt.fi)
