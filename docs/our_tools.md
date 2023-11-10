@@ -2,6 +2,8 @@
 
 ## [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox)
 
+![logo_toolbox](docs\assets\MOPO_logo_spinetoolbox.svg)
+
 1. Graphical user interface for maintaining repeatable workflows from input data to different modelling tools and visualizing results
 2. Tools to transform data, data structures, and data formats
 3. Create scenarios from alternative values and parallelize the execution
@@ -9,9 +11,7 @@
 
 Maturity score: 3/5 Availability score: 4/5 Ease of use: 3/5 Level of flexibility: 5/5 Level of features: 4/5
 
-[github link](https://github.com/spine-tools/Spine-Toolbox)
 
-✔
 
 ![type:video](https://www.youtube.com/embed/Wnd3roUk2IE)
 
