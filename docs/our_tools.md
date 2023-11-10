@@ -383,7 +383,7 @@ Level of flexibility: ★★★★★
 Level of features: ★★★★☆ 
 
 
-![type:video](https://www.youtube.com/watch?v=U0Poo6PxKII&list=PLUCHvNjsSjVnRQz67SgBthA_LrrmjavgG&index=2)
+![type:video](https://www.youtube.com/embed/U0Poo6PxKII?list=PLUCHvNjsSjVnRQz67SgBthA_LrrmjavgG)
 
 ## [Backbone](https://gitlab.vtt.fi/backbone/backbone)
 
