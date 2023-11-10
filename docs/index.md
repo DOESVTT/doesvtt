@@ -16,6 +16,26 @@ We operate at the sweet spot between where energy system expertize meets mathema
 
 Some of our reference work includes:
 
+### 2IMatch
+
+### EasyDR
+
+### Elexia
+
+### FlexiB
+
+### Mopo
+
+### OASES
+
+### ReIntegrate
+
+### RePower
+
+### TradeRES
+
+### TU-Nexus
+
 ## References
 ![whoarewe](assets/reference_cons.svg)
 
