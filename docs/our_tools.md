@@ -1,6 +1,6 @@
 # Listing of our tools
 
-## [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox)
+## [Spine Toolbox](https://spine-toolbox.readthedocs.io/en/latest/?badge=latest)
 
 <svg
    id="Livello_1"
@@ -207,7 +207,7 @@ Level of features: ★★★★☆
 ![type:video](https://www.youtube.com/embed/Wnd3roUk2IE)
 
 
-## [SpineOpt](https://github.com/spine-tools/SpineOpt.jl)
+## [SpineOpt](https://spine-tools.github.io/SpineOpt.jl)
 
 <svg
    id="Livello_1"
@@ -572,7 +572,7 @@ Level of features: ★★★★★
 
 https://gitlab.vtt.fi/backbone/backbone
 
-## [IRENA FlexTool](https://github.com/irena-flextool)
+## [IRENA FlexTool](https://irena-flextool.github.io/flextool/)
 
 1. Fully open framework for energy system optimization models
 2. Focused on system planning for high shares of variable power generation in future energy systems
@@ -587,7 +587,7 @@ Level of features: ★★★☆☆
 
 FlexTool 3: https://github.com/irena-flextool FlexTool 2: https://www.irena.org/Energy-Transition/Planning/Flextool
 
-## [Predicer](https://github.com/predicer-tools)
+## [Predicer](https://vttresearch.github.io/Predicer/)
 
 <svg
    width="50%"
