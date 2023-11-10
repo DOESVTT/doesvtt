@@ -1,6 +1,6 @@
 # Listing of our tools
 
-## [Spine Toolbox](https://spine-toolbox.readthedocs.io/en/latest/?badge=latest)
+## [Spine Toolbox](https://external.ink?to=/https://spine-toolbox.readthedocs.io/en/latest/?badge=latest)
 
 <svg
    id="Livello_1"
