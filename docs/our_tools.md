@@ -383,7 +383,7 @@ Level of flexibility: ★★★★★
 Level of features: ★★★★☆ 
 
 
-https://github.com/spine-tools/SpineOpt.jl
+![type:video](https://www.youtube.com/watch?v=U0Poo6PxKII&list=PLUCHvNjsSjVnRQz67SgBthA_LrrmjavgG&index=2)
 
 ## [Backbone](https://gitlab.vtt.fi/backbone/backbone)
 
