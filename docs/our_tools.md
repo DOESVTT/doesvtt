@@ -2,6 +2,8 @@
 
 ## [Spine Toolbox](https://spine-toolbox.readthedocs.io/en/latest/?badge=latest)
 
+[![SpineToolbox Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=SpineToolbox&link=https%3A%2F%2Fgithub.com%2Fspine-tools%2FSpine-Toolbox%2Ftree%2Fmaster)](https://github.com/spine-tools/Spine-Toolbox/tree/master)
+
 <svg
    id="Livello_1"
    width="50%"
@@ -209,6 +211,8 @@ Level of features: ★★★★☆
 
 ## [SpineOpt](https://spine-tools.github.io/SpineOpt.jl)
 
+[![SpineOpt Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=SpineOpt&link=https%3A%2F%2Fgithub.com%2Fspine-tools%2FSpineOpt.jl)](https://github.com/spine-tools/SpineOpt.jl)
+
 <svg
    id="Livello_1"
    width="40%"
@@ -386,6 +390,8 @@ Level of features: ★★★★☆
 ![type:video](https://www.youtube.com/embed/U0Poo6PxKII?list=PLUCHvNjsSjVnRQz67SgBthA_LrrmjavgG)
 
 ## [Backbone](https://gitlab.vtt.fi/backbone/backbone)
+
+[![Backbone Badge](https://img.shields.io/badge/docs-main-green?logo=gitlab&label=backbone&link=https%3A%2F%2Fgitlab.vtt.fi%2Fbackbone%2Fbackbone)](https://gitlab.vtt.fi/backbone/backbone)
 
 <svg
    id="Livello_1"
@@ -574,6 +580,8 @@ https://gitlab.vtt.fi/backbone/backbone
 
 ## [IRENA FlexTool](https://irena-flextool.github.io/flextool/)
 
+[![FlexTool Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=github&link=https%3A%2F%2Fgithub.com%2Firena-flextool%2Fflextool)](https://github.com/irena-flextool/flextool)
+
 1. Fully open framework for energy system optimization models
 2. Focused on system planning for high shares of variable power generation in future energy systems
 3. Developed with IRENA for ease-of-use fo users with limited modelling or coding experience
@@ -689,8 +697,6 @@ Availability score: ★★★★☆
 Ease of use: ★☆☆☆☆ 
 Level of flexibility: ★★★★☆ 
 Level of features: ★★★☆☆
-
-https://github.com/predicer-tools
 
 ## Hertta
 <svg
