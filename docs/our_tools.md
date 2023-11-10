@@ -196,7 +196,8 @@
 3. Create scenarios from alternative values and parallelize the execution
 4. Easy to share workflows and operate models without touching the code
 
-Maturity score: 3/5 Availability score: 4/5 Ease of use: 3/5 Level of flexibility: 5/5 Level of features: 4/5
+Maturity score: ★★★☆☆ 
+Availability score: 4/5 Ease of use: 3/5 Level of flexibility: 5/5 Level of features: 4/5
 
 
 
