@@ -211,8 +211,8 @@ Level of features: ★★★★☆
 
 <svg
    id="Livello_1"
-   width="50%"
-   height="50%"
+   width="40%"
+   height="40%"
    viewBox="0 0 809.87014 669.56836"
    version="1.1"
    sodipodi:docname="MOPO_logo_spineopt.svg"
@@ -387,12 +387,188 @@ https://github.com/spine-tools/SpineOpt.jl
 
 ## [Backbone](https://gitlab.vtt.fi/backbone/backbone)
 
+<svg
+   id="Livello_1"
+   width="50%"
+   height="50%"
+   viewBox="0 0 812.28415 592.20131"
+   version="1.1"
+   sodipodi:docname="logo_backbone.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xml:space="preserve"
+   inkscape:export-filename="logo_backbone.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview50"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="65.760931"
+     inkscape:cy="326.68333"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="108"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs5"><clipPath
+       id="clippath"><path
+         d="M 438.4697,442.0799 H 216.8471 V 48.0842 c 0,0 221.6226,0 221.6226,0 z m 263.0003,0 H 479.8474 V 144.5125 c 0,0 221.6226,0 221.6226,0 z m 263.0003,0 H 742.8477 V 48.0842 c 0,0 221.6226,0 221.6226,0 z"
+         style="fill:none"
+         id="path2" /></clipPath><clipPath
+       id="clippath-1"><path
+         d="M 438.4697,442.0799 H 216.8471 V 48.0842 c 0,0 221.6226,0 221.6226,0 z m 263.0003,0 H 479.8474 V 144.5125 c 0,0 221.6226,0 221.6226,0 z m 263.0003,0 H 742.8477 V 48.0842 c 0,0 221.6226,0 221.6226,0 z"
+         style="fill:none"
+         id="path2-8" /></clipPath><clipPath
+       id="clippath-4"><path
+         d="M 438.4697,442.0799 H 216.8471 V 48.0842 c 0,0 221.6226,0 221.6226,0 z m 263.0003,0 H 479.8474 V 144.5125 c 0,0 221.6226,0 221.6226,0 z m 263.0003,0 H 742.8477 V 48.0842 c 0,0 221.6226,0 221.6226,0 z"
+         style="fill:none"
+         id="path2-0" /></clipPath></defs><g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Spine_Logo"
+     style="display:inline"
+     transform="translate(-519.94523,-184.11656)"><rect
+       style="fill:#1f3b6a;fill-opacity:1"
+       id="rect415"
+       width="220.98103"
+       height="393.47098"
+       x="216.82468"
+       y="48.491138"
+       clip-path="url(#clippath)"
+       transform="translate(338,142)" /><rect
+       style="fill:#1f3b6a;fill-opacity:1"
+       id="rect415-9"
+       width="219.98103"
+       height="448.82141"
+       x="217.82468"
+       y="-6.8592086"
+       clip-path="url(#clippath-1)"
+       transform="matrix(1,0,0,0.87051255,601.22639,199.92126)" /><rect
+       style="fill:#1f3b6a;fill-opacity:1"
+       id="rect415-7"
+       width="220.98103"
+       height="393.47098"
+       x="216.82468"
+       y="48.491138"
+       clip-path="url(#clippath-4)"
+       transform="translate(863.4249,142)" /><circle
+       style="fill:#2ad1c1;fill-opacity:1;stroke-width:0.766892"
+       id="path1386"
+       cx="670.1286"
+       cy="340.02414"
+       r="42.5" /><circle
+       style="fill:#2ad1c1;fill-opacity:1;stroke-width:0.766892"
+       id="path1386-6"
+       cx="930.61597"
+       cy="507.25522"
+       r="42.5" /><circle
+       style="fill:#2ad1c1;fill-opacity:1;stroke-width:0.766892"
+       id="path1386-9"
+       cx="1193.2603"
+       cy="409.63864"
+       r="42.5" /><rect
+       style="fill:#2ad1c1;fill-opacity:1;stroke-width:1.13649"
+       id="rect1578"
+       width="14.49567"
+       height="155.03314"
+       x="662.6474"
+       y="346.7475" /><rect
+       style="display:inline;fill:#2ad1c1;fill-opacity:1;stroke-width:1.1488"
+       id="rect1578-1"
+       width="14.652693"
+       height="156.71252"
+       x="663.41302"
+       y="190.49115" /><rect
+       style="fill:#2ad1c1;fill-opacity:1;stroke-width:1.38127"
+       id="rect2300"
+       width="220.96017"
+       height="14.974969"
+       x="554.8512"
+       y="499.39963" /><rect
+       style="display:inline;fill:#2ad1c1;fill-opacity:1;stroke-width:1.08892"
+       id="rect2300-1"
+       width="74.611145"
+       height="14.678365"
+       x="819.04712"
+       y="499.57312" /><rect
+       style="display:inline;fill:#2ad1c1;fill-opacity:1;stroke-width:1.27298"
+       id="rect2300-1-2"
+       width="103.17809"
+       height="14.810165"
+       x="935.89349"
+       y="402.90366" /><rect
+       style="display:inline;fill:#2ad1c1;fill-opacity:1;stroke-width:1.33425"
+       id="rect2300-1-2-0"
+       width="113.4059"
+       height="14.802806"
+       x="819.04211"
+       y="326.89758" /><rect
+       style="display:inline;fill:#2ad1c1;fill-opacity:1;stroke-width:1.32905"
+       id="rect2300-1-2-0-0"
+       width="112.96396"
+       height="14.745119"
+       x="662.83984"
+       y="326.99335" /><rect
+       style="display:inline;fill:#2ad1c1;fill-opacity:1;stroke-width:0.978892"
+       id="rect2300-1-2-9"
+       width="89.853859"
+       height="14.453649"
+       x="1080.2346"
+       y="402.68549" /><rect
+       style="display:inline;fill:#2ad1c1;fill-opacity:1;stroke-width:0.983548"
+       id="rect2300-1-2-9-5"
+       width="188.97887"
+       height="14.765309"
+       x="-379.47043"
+       y="1185.3245"
+       transform="rotate(-90)" /><rect
+       style="display:inline;fill:#2ad1c1;fill-opacity:1;stroke-width:0.874485"
+       id="rect2300-1-2-9-5-8"
+       width="149.39192"
+       height="14.765309"
+       x="-476.25848"
+       y="921.8042"
+       transform="rotate(-90)" /><rect
+       style="display:inline;fill:#2ad1c1;fill-opacity:1;stroke-width:1.03487"
+       id="rect2300-1-2-9-5-5"
+       width="202.16637"
+       height="15.280214"
+       x="-583.98059"
+       y="1184.4248"
+       transform="rotate(-90)" /></g><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ffe900;fill-opacity:0;stroke:none;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     x="8"
+     y="-1268"
+     id="text11464"
+     transform="matrix(4.091793,0,0,4.091793,-46.906427,5777.9842)"><tspan
+       sodipodi:role="line"
+       x="8"
+       y="-1268"
+       id="tspan11466"
+       style="font-weight:bold;font-size:37.3333px;fill:#000000;fill-opacity:1">Backbone</tspan></text></svg>
+
 1. Flexible and mature framework for energy system optimization models
 2. Optimize investments and operation in multi-sectoral energy systems on local, national and continental scales
 3. General in formulation, rich in features
 4. Written in GAMS, no specific user interface (Excel+GDXXRW can be used), needs GAMS licence
 
-Maturity score: 4/5 Availability score: 3/5 Ease of use: 2/5 Level of flexibility: 4/5 Level of features: 5/5
+Maturity score: ★★★★☆ 
+Availability score: ★★★☆☆
+Ease of use: ★★☆☆☆
+Level of flexibility: ★★★★☆
+Level of features: ★★★★★
 
 https://gitlab.vtt.fi/backbone/backbone
 
@@ -403,28 +579,194 @@ https://gitlab.vtt.fi/backbone/backbone
 3. Developed with IRENA for ease-of-use fo users with limited modelling or coding experience
 4. FlexTool 3 written in AMPL+Python, can be used with Spine Toolbox or web interface (FlexTool 2 in IRENA distribution in Excel)
 
-FlexTool 3: Maturity score: 3/5 Availability score: 4/5 Ease of use: 4/5 Level of flexibility: 4/5 Level of features: 3/5
+FlexTool 3: Maturity score: ★★★☆☆ 
+Availability score: ★★★★☆ 
+Ease of use: ★★★★☆ 
+Level of flexibility: ★★★★☆ 
+Level of features: ★★★☆☆
 
 FlexTool 3: https://github.com/irena-flextool FlexTool 2: https://www.irena.org/Energy-Transition/Planning/Flextool
 
 ## [Predicer](https://github.com/predicer-tools)
+
+<svg
+   width="50%"
+   height="50%"
+   viewBox="0 0 48.687477 42.652836"
+   version="1.1"
+   id="svg17439"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Predicer_logo.svg"
+   inkscape:export-filename="Predicer_logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview17441"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.1745121"
+     inkscape:cx="139.80148"
+     inkscape:cy="60.473336"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs17436" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-87.359709,-65.698179)" /><g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Old"
+     style="display:none"
+     transform="translate(0.17568319,-0.05462201)"><path
+       style="fill:#171949;fill-opacity:1;stroke-width:0.264999"
+       d="m 103.24107,65.643557 h 14.90516 l 5.41453,6.266251 -5.35369,6.266254 h -14.84433 l 5.04951,-6.144577 z"
+       id="path17580"
+       transform="translate(-87.535393,-65.643556)" /><path
+       style="fill:#a6d06a;fill-opacity:1;stroke-width:0.264999"
+       d="m 111.94081,80.366209 h -9.91649 l -5.41453,6.266251 5.35369,6.266254 h 9.85566 l -5.04951,-6.144577 z"
+       id="path17580-9"
+       sodipodi:nodetypes="ccccccc"
+       transform="translate(-87.535393,-65.643556)" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#171949;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="305.12592"
+       y="386.06363"
+       id="text19625"
+       transform="matrix(0.8535584,0,0,0.8535584,-261.39304,-286.85924)"><tspan
+         sodipodi:role="line"
+         id="tspan19623"
+         x="305.12592"
+         y="386.06363"
+         style="font-weight:bold;fill:#171949;fill-opacity:1">Predicer</tspan></text></g><g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="New"
+     style="display:inline"
+     transform="translate(0.17568319,-0.05462201)"><path
+       style="fill:#008000;fill-opacity:1;stroke-width:0.264999"
+       d="m 15.748455,0.05462201 h 14.90516 l 5.41453,6.26625099 -5.35369,6.266254 h -14.84433 l 5.04951,-6.144577 z"
+       id="path17580-8" /><path
+       style="fill:#9bf082;fill-opacity:1;stroke-width:0.264999"
+       d="m 24.448195,14.777274 h -9.91649 l -5.4145308,6.266251 5.3536908,6.266254 h 9.85566 l -5.04951,-6.144577 z"
+       id="path17580-9-7"
+       sodipodi:nodetypes="ccccccc" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="305.12592"
+       y="386.06363"
+       id="text19625-5"
+       transform="matrix(0.88680146,0,0,0.95619495,-271.74905,-326.61832)"><tspan
+         sodipodi:role="line"
+         id="tspan19623-3"
+         x="305.12592"
+         y="386.06363"
+         style="font-weight:bold;fill:#000000;fill-opacity:1">Predicer</tspan></text></g></svg>
 
 1. "Predictive decider" - A fully open framework for real-time asset management on complex stocastic markets
 2. Supports models to maximize the revenue from the operation of existing assets an industrial site, a building or an energy storage
 3. Supports models to optimize the trading on multiple simultaneous energy markets while considering short-term uncertainty in weather, market prices and energy demand
 4. Written in Julia
 
-Maturity score: 2/5 Availability score: 4/5 Ease of use: 1/5 Level of flexibility: 4/5 Level of features: 3/5
+Maturity score: ★★☆☆☆ 
+Availability score: ★★★★☆ 
+Ease of use: ★☆☆☆☆ 
+Level of flexibility: ★★★★☆ 
+Level of features: ★★★☆☆
 
 https://github.com/predicer-tools
 
 ## Hertta
+<svg
+   width="50%"
+   height="50%"
+   viewBox="0 0 57.160843 49.897453"
+   version="1.1"
+   id="svg24194"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Hertta_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24196"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5376122"
+     inkscape:cx="253.64002"
+     inkscape:cy="81.945238"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="108"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs24191" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-80.843272,-133.0514)">
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke-width:0.264999"
+       d="m 95.628793,133.0514 h 17.711277 v 17.88619 l -5.92938,3.42334 v 11.72518 H 95.636395 Z"
+       id="path24389"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#d4aa00;fill-opacity:1;stroke-width:0.264999"
+       d="m 117.09646,142.21929 h 17.03534 v 24.34849 h -7.95843 v -11.83009 l -9.04798,-5.22386 z"
+       id="path25498" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="279.60294"
+       y="666.81628"
+       id="text26330"
+       transform="matrix(1.1235061,0,0,1.1235061,-234.54311,-566.22331)"><tspan
+         sodipodi:role="line"
+         id="tspan26328"
+         x="279.60294"
+         y="666.81628"
+         style="font-weight:bold;fill:#ffcc00;fill-opacity:1"
+         dx="0 0 0 0 0 0">HER<tspan
+   style="letter-spacing:-0.588745px"
+   id="tspan27265">TT</tspan>A</tspan></text>
+  </g>
+</svg>
 
 1. Predicer-based easy-to-use home energy asset optimization software
 2. In development, not published yet
 3. Written in Rust with interface to Julia
 
-Maturity score: 1/5 Availability score: -/5 Ease of use: -/5 Level of flexibility: -/5 Level of features: -/5
+Maturity score: ★☆☆☆☆ 
+Availability score: ☆☆☆☆☆ 
+Ease of use: ☆☆☆☆☆ 
+Level of flexibility: ☆☆☆☆☆ 
+Level of features: ☆☆☆☆☆
 
 (Not public yet)
 
