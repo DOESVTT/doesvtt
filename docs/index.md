@@ -22,4 +22,5 @@ Some of our reference work includes:
 ## List of publications
 For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
 
+## Contact Us
 Want to know more? Contact us at [does-info@vtt.fi](mailto:does-info@vtt.fi)
