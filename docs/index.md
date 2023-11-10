@@ -17,9 +17,7 @@ We operate at the sweet spot between where energy system expertize meets mathema
 Some of our reference work includes:
 
 ## References
-- Nordic energy system model for Backbone
-- European Energy system model
-- Baltic model 
+![whoarewe](assets/reference_cus.png)
 
 ## List of publications
 For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
