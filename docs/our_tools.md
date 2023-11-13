@@ -601,7 +601,7 @@ FlexTool 3: https://github.com/irena-flextool FlexTool 2: https://www.irena.org/
 
 ## <u>Predicer</u>
 
-[![FlexTool_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fvttresearch.github.io%2FPredicer%2F)](https://vttresearch.github.io/Predicer/)
+[![Predicer_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fvttresearch.github.io%2FPredicer%2F)](https://vttresearch.github.io/Predicer/)
 [![Predicer Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=github&link=https%3A%2F%2Fgithub.com%2Fvttresearch%2FPredicer%2Ftree%2Fmain)](https://github.com/vttresearch/Predicer)
 
 <svg
