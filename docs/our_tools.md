@@ -1,9 +1,9 @@
 # Listing of our tools
 
-## <u>Spine Toolbox</u> [![SpineToolbox_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fspine-toolbox.readthedocs.io%2Fen%2Flatest%2F%3Fbadge%3Dlatest)](https://spine-toolbox.readthedocs.io/en/latest/?badge=latest)
+## <u>Spine Toolbox</u> 
 
-
-[![SpineToolbox Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=SpineToolbox&link=https%3A%2F%2Fgithub.com%2Fspine-tools%2FSpine-Toolbox%2Ftree%2Fmaster)](https://github.com/spine-tools/Spine-Toolbox/tree/master)
+[![SpineToolbox_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fspine-toolbox.readthedocs.io%2Fen%2Flatest%2F%3Fbadge%3Dlatest)](https://spine-toolbox.readthedocs.io/en/latest/?badge=latest)
+[![SpineToolbox Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=git&link=https%3A%2F%2Fgithub.com%2Fspine-tools%2FSpine-Toolbox%2Ftree%2Fmaster)](https://github.com/spine-tools/Spine-Toolbox/tree/master)
 
 <svg
    id="Livello_1"
@@ -210,8 +210,9 @@ Level of features: ★★★★☆
 ![type:video](https://www.youtube.com/embed/Wnd3roUk2IE)
 
 
-## [SpineOpt](https://spine-tools.github.io/SpineOpt.jl)
+## <u>SpineOpt</u>
 
+[![SpineOpt_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fspine-tools.github.io%2FSpineOpt.jl)](https://spine-tools.github.io/SpineOpt.jl)
 [![SpineOpt Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=SpineOpt&link=https%3A%2F%2Fgithub.com%2Fspine-tools%2FSpineOpt.jl)](https://github.com/spine-tools/SpineOpt.jl)
 
 <svg
@@ -390,8 +391,9 @@ Level of features: ★★★★☆
 
 ![type:video](https://www.youtube.com/embed/U0Poo6PxKII?list=PLUCHvNjsSjVnRQz67SgBthA_LrrmjavgG)
 
-## [Backbone](https://gitlab.vtt.fi/backbone/backbone)
+## <u>Backbone</u>
 
+[![Backbone_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fgitlab.vtt.fi%2Fbackbone%2Fbackbone)](https://gitlab.vtt.fi/backbone/backbone)
 [![Backbone Badge](https://img.shields.io/badge/docs-main-green?logo=gitlab&label=backbone&link=https%3A%2F%2Fgitlab.vtt.fi%2Fbackbone%2Fbackbone)](https://gitlab.vtt.fi/backbone/backbone)
 
 <svg
@@ -579,8 +581,9 @@ Level of features: ★★★★★
 
 https://gitlab.vtt.fi/backbone/backbone
 
-## [IRENA FlexTool](https://irena-flextool.github.io/flextool/)
+## <u>IRENA FlexTool</u>
 
+[![FlexTool_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Firena-flextool.github.io%2Fflextool%2F)](https://irena-flextool.github.io/flextool/)
 [![FlexTool Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=github&link=https%3A%2F%2Fgithub.com%2Firena-flextool%2Fflextool)](https://github.com/irena-flextool/flextool)
 
 1. Fully open framework for energy system optimization models
@@ -596,7 +599,9 @@ Level of features: ★★★☆☆
 
 FlexTool 3: https://github.com/irena-flextool FlexTool 2: https://www.irena.org/Energy-Transition/Planning/Flextool
 
-## [Predicer](https://vttresearch.github.io/Predicer/)
+## <u>Predicer</u>
+
+[![FlexTool_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fvttresearch.github.io%2FPredicer%2F)](https://vttresearch.github.io/Predicer/)
 [![Predicer Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=github&link=https%3A%2F%2Fgithub.com%2Fvttresearch%2FPredicer%2Ftree%2Fmain)](https://github.com/vttresearch/Predicer)
 
 <svg
