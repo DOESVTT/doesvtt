@@ -1,6 +1,7 @@
 # Listing of our tools
 
-## [Spine Toolbox](https://spine-toolbox.readthedocs.io/en/latest/?badge=latest)
+## [Spine Toolbox](https://spine-toolbox.readthedocs.io/en/latest/?badge=latest) [![SpineToolbox_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fspine-toolbox.readthedocs.io%2Fen%2Flatest%2F%3Fbadge%3Dlatest)](https://spine-toolbox.readthedocs.io/en/latest/?badge=latest)
+
 
 [![SpineToolbox Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=SpineToolbox&link=https%3A%2F%2Fgithub.com%2Fspine-tools%2FSpine-Toolbox%2Ftree%2Fmaster)](https://github.com/spine-tools/Spine-Toolbox/tree/master)
 
