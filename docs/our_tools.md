@@ -213,7 +213,7 @@ Level of features: ★★★★☆
 ## <u>SpineOpt</u>
 
 [![SpineOpt_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fspine-tools.github.io%2FSpineOpt.jl)](https://spine-tools.github.io/SpineOpt.jl)
-[![SpineOpt Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=SpineOpt&link=https%3A%2F%2Fgithub.com%2Fspine-tools%2FSpineOpt.jl)](https://github.com/spine-tools/SpineOpt.jl)
+[![SpineOpt Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=git&link=https%3A%2F%2Fgithub.com%2Fspine-tools%2FSpineOpt.jl)](https://github.com/spine-tools/SpineOpt.jl)
 
 <svg
    id="Livello_1"
@@ -394,7 +394,7 @@ Level of features: ★★★★☆
 ## <u>Backbone</u>
 
 [![Backbone_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fgitlab.vtt.fi%2Fbackbone%2Fbackbone)](https://gitlab.vtt.fi/backbone/backbone)
-[![Backbone Badge](https://img.shields.io/badge/docs-main-green?logo=gitlab&label=backbone&link=https%3A%2F%2Fgitlab.vtt.fi%2Fbackbone%2Fbackbone)](https://gitlab.vtt.fi/backbone/backbone)
+[![Backbone Badge](https://img.shields.io/badge/docs-main-green?logo=gitlab&label=git&link=https%3A%2F%2Fgitlab.vtt.fi%2Fbackbone%2Fbackbone)](https://gitlab.vtt.fi/backbone/backbone)
 
 <svg
    id="Livello_1"
@@ -584,7 +584,7 @@ https://gitlab.vtt.fi/backbone/backbone
 ## <u>IRENA FlexTool</u>
 
 [![FlexTool_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Firena-flextool.github.io%2Fflextool%2F)](https://irena-flextool.github.io/flextool/)
-[![FlexTool Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=github&link=https%3A%2F%2Fgithub.com%2Firena-flextool%2Fflextool)](https://github.com/irena-flextool/flextool)
+[![FlexTool Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=git&link=https%3A%2F%2Fgithub.com%2Firena-flextool%2Fflextool)](https://github.com/irena-flextool/flextool)
 
 1. Fully open framework for energy system optimization models
 2. Focused on system planning for high shares of variable power generation in future energy systems
@@ -602,7 +602,7 @@ FlexTool 3: https://github.com/irena-flextool FlexTool 2: https://www.irena.org/
 ## <u>Predicer</u>
 
 [![Predicer_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fvttresearch.github.io%2FPredicer%2F)](https://vttresearch.github.io/Predicer/)
-[![Predicer Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=github&link=https%3A%2F%2Fgithub.com%2Fvttresearch%2FPredicer%2Ftree%2Fmain)](https://github.com/vttresearch/Predicer)
+[![Predicer Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=git&link=https%3A%2F%2Fgithub.com%2Fvttresearch%2FPredicer%2Ftree%2Fmain)](https://github.com/vttresearch/Predicer)
 
 <svg
    width="50%"
