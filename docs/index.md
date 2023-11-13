@@ -27,9 +27,10 @@ Enabling demand response through easy to use open source approach (EasyDR) is a 
 The [Elexia](https://www.elexia-project.eu) focuses on the development of the energy system towards more digitalisation, in this project, we are continuing the development of operational tools and planning tools to 3 different pilot sites. The project will provide a standardised digital service platform where data can be brokered and unified through multiple software/model and smart gateways deployed on the fields. 
 
 ### FlexiB
-
+[FlexiB](https://cris.vtt.fi/en/projects/integration-of-building-flexibility-into-future-energy-systems) project is funded by the Research Council of Finland (previously known as Academy of Finland) and investigate the flexibility of buildings in the energy system. With the use of our tool [Backbone](https://doesvtt.github.io/doesvtt/our_tools/#backbone), we are developing a building stock model to evaluate the flexibility of the electrically heatd buildings in Finland. Further development will include non-electric buildings. 
 
 ### Mopo
+
 
 ### OASES
 
