@@ -7,8 +7,8 @@
 
 <svg
    id="Livello_1"
-   width="50%"
-   height="50%"
+   width="25%"
+   height="25%"
    viewBox="0 0 1185.3994 670.63837"
    version="1.1"
    sodipodi:docname="MOPO_logo_spinetoolbox.svg"
@@ -217,8 +217,8 @@ Level of features: ★★★★☆
 
 <svg
    id="Livello_1"
-   width="40%"
-   height="40%"
+   width="25%"
+   height="25%"
    viewBox="0 0 809.87014 669.56836"
    version="1.1"
    sodipodi:docname="MOPO_logo_spineopt.svg"
@@ -398,8 +398,8 @@ Level of features: ★★★★☆
 
 <svg
    id="Livello_1"
-   width="50%"
-   height="50%"
+   width="25%"
+   height="25%"
    viewBox="0 0 812.28415 592.20131"
    version="1.1"
    sodipodi:docname="logo_backbone.svg"
@@ -605,8 +605,8 @@ FlexTool 3: https://github.com/irena-flextool FlexTool 2: https://www.irena.org/
 [![Predicer Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=git&link=https%3A%2F%2Fgithub.com%2Fvttresearch%2FPredicer%2Ftree%2Fmain)](https://github.com/vttresearch/Predicer)
 
 <svg
-   width="50%"
-   height="50%"
+   width="25%"
+   height="20%"
    viewBox="0 0 48.687477 42.652836"
    version="1.1"
    id="svg17439"
@@ -706,8 +706,8 @@ Level of features: ★★★☆☆
 
 ## Hertta
 <svg
-   width="50%"
-   height="50%"
+   width="20%"
+   height="20%"
    viewBox="0 0 57.160843 49.897453"
    version="1.1"
    id="svg24194"
