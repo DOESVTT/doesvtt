@@ -33,7 +33,7 @@ The [Elexia](https://www.elexia-project.eu) focuses on the development of the en
 [Mopo](tools-for-energy-system-modelling.org) is a 4-years HEU project coordinated by our team. In this project and in collaboration with the project partners (see project website) we aim at combining component tools producing input data to create model-ready datasets, scenario and workflow management, and medium and long-term energy system planning. The aim is to provide a user-friendly, open-source and validated set of tools to benefit decision-makers in network operation, industry and public authorities.
 
 ### OASES
-[OASES](https://www.leap-re.eu/oases/) is one of the projects [FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool)  
+[OASES](https://www.leap-re.eu/oases/) is one of the projects where we support the energy transition in developing countries. In this project we work with Algeria, Egypt and South Africa as case studies and local research institutions using [IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool) model that we are developing for IRENA.
 
 ### ReIntegrate
 
@@ -42,7 +42,7 @@ The [Elexia](https://www.elexia-project.eu) focuses on the development of the en
 ### TradeRES
 
 ### TU-Nexus
-
+TU-Nexus is another project that uses [IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool) model to support the energy transition in Uzbekistan and Tajikistan. This project goes beyond the typical energy modelling work that we do to include the water-energy-land nexus in the deision making and operation of the hydropower system.
 
 ## List of publications
 For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
