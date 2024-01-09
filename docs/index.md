@@ -30,9 +30,10 @@ The [Elexia](https://www.elexia-project.eu) focuses on the development of the en
 [FlexiB](https://cris.vtt.fi/en/projects/integration-of-building-flexibility-into-future-energy-systems) project is funded by the Research Council of Finland (previously known as Academy of Finland) and investigate the flexibility of buildings in the energy system. With the use of our tool [Backbone](https://doesvtt.github.io/doesvtt/our_tools/#backbone), we are developing a building stock model to evaluate the flexibility of the electrically heatd buildings in Finland. Further development will include non-electric buildings. 
 
 ### Mopo
-
+[Mopo](tools-for-energy-system-modelling.org) is a 4-years HEU project coordinated by our team. In this project and in collaboration with the project partners (see project website) we aim at combining component tools producing input data to create model-ready datasets, scenario and workflow management, and medium and long-term energy system planning. The aim is to provide a user-friendly, open-source and validated set of tools to benefit decision-makers in network operation, industry and public authorities.
 
 ### OASES
+[OASES](https://www.leap-re.eu/oases/) is one of the projects [FlexTool](./our_tools.md#FlexTool)  
 
 ### ReIntegrate
 
@@ -42,8 +43,6 @@ The [Elexia](https://www.elexia-project.eu) focuses on the development of the en
 
 ### TU-Nexus
 
-## References
-![whoarewe](assets/reference_cons.svg)
 
 ## List of publications
 For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
