@@ -42,7 +42,7 @@ The [Elexia](https://www.elexia-project.eu) focuses on the development of the en
 ### TradeRES
 
 ### TU-Nexus
-TU-Nexus is another project that uses [IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool) model to support the energy transition in Uzbekistan and Tajikistan. This project goes beyond the typical energy modelling work that we do to include the water-energy-land nexus in the deision making and operation of the hydropower system.
+TU-Nexus is another project that uses [IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool) model to support the energy transition in Uzbekistan and Tajikistan. This project goes beyond the typical energy modelling work that we do to include the water-energy-land nexus in the deision making and operation of the hydropower system. This project is funded by the Finnish Ministry of Foreign Affairs.
 
 ## List of publications
 For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
