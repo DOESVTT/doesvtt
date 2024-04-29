@@ -607,8 +607,8 @@ FlexTool 3: https://github.com/irena-flextool FlexTool 2: https://www.irena.org/
 ![Predicer_logo](assets/Predicer_logo.svg)
 
 <svg
-   width="82.09388mm"
-   height="78.671867mm"
+   width="25%"
+   height="20%"
    viewBox="0 0 82.093879 78.671865"
    version="1.1"
    id="svg17439"
