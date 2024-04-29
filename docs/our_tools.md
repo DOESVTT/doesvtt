@@ -729,8 +729,8 @@ Level of features: ★★★☆☆
 
 ## Hertta
 <svg
-   width="20%"
-   height="20%"
+   width="50%"
+   height="50%"
    viewBox="0 0 1920 1080"
    version="1.1"
    id="svg1"
