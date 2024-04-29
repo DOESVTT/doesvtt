@@ -729,9 +729,9 @@ Level of features: ★★★☆☆
 
 ## Hertta
 <svg
-   width="50%"
-   height="50%"
-   viewBox="0 0 1920 1080"
+   width="20%"
+   height="20%"
+   viewBox="0 0 520.32397 654.86572"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -750,19 +750,20 @@ Level of features: ★★★☆☆
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.24097572"
-     inkscape:cx="3780.4639"
-     inkscape:cy="2962.9541"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="0.17039557"
+     inkscape:cx="953.66331"
+     inkscape:cy="1698.9879"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="2391"
+     inkscape:window-y="201"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" /><defs
      id="defs1" /><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"><rect
+     id="layer1"
+     transform="translate(-686.87308,-223.61629)"><rect
        style="fill:#ffda9b;fill-opacity:1;stroke:none;stroke-width:0.23636;stroke-linejoin:round;stroke-opacity:1"
        id="rect2-3"
        width="91.612808"
