@@ -38,11 +38,16 @@ The [Elexia](https://www.elexia-project.eu) focuses on the development of the en
 ### ReIntegrate
 
 ### RePower
+Hand in hand with the Finnish Environmental Institute (SYKE), we are working on setting up the roadmap for Finland where scenario are being generated and tested using [Backbone](https://doesvtt.github.io/doesvtt/our_tools/#backbone).
 
 ### TradeRES
+An EU project where a 100% renewable energy system for Europe is being tested and developed using [Backbone](https://doesvtt.github.io/doesvtt/our_tools/#backbone).
 
 ### TU-Nexus
 TU-Nexus is another project that uses [IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool) model to support the energy transition in Uzbekistan and Tajikistan. This project goes beyond the typical energy modelling work that we do to include the water-energy-land nexus in the deision making and operation of the hydropower system. This project is funded by the Finnish Ministry of Foreign Affairs.
+
+### 2IMatch
+This project, financed by the Research Council of Finland, is part of a strategic funding where the just energy transition is being evaluated. This project combines political science and governance in which [SpineOpt](https://doesvtt.github.io/doesvtt/our_tools/#spineopt) will be used to evaluate the justice of the energy system. We look at the country level and municipal level justice, including the environmental impact of the energy systems developed within this project.
 
 ## List of publications
 For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
