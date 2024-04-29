@@ -17,7 +17,7 @@ We operate at the sweet spot between where energy system expertize meets mathema
 Some of our reference work includes:
 
 ### 2IMatch
-Strategic Research funding on the Just Energy Transition where our team is looking into the integration of energy grids through the different layers of the energy system, from local energy grids to the national network (when applied). It also assesses the different enegry and carbon policy and their impact on the energy market to promote a just energy transition (find out more about the [2IMatch](https://www.aka.fi/en/strategic-research/strategic-research/strategic-research-in-a-nutshell/programmes-and-projects/just-energy/2imatch/) project) 
+Strategic Research funding on the Just Energy Transition where our team is looking into the integration of energy grids through the different layers of the energy system, from local energy grids to the national network (when applied). It also assesses the different energy and carbon policy and their impact on the energy market to promote a just energy transition (find out more about the [2IMatch](https://www.aka.fi/en/strategic-research/strategic-research/strategic-research-in-a-nutshell/programmes-and-projects/just-energy/2imatch/) project) #[SpineOpt](https://doesvtt.github.io/doesvtt/our_tools/#spineopt)
 
 ### EasyDR
 Enabling demand response through easy to use open source approach (EasyDR) is a research project where we are developping an affordable and open source energy management system for homes. It utilises the power of our VTT tool Predicer (see more in our tools lists) to manage and plan the utilisation of energy on different markets (heat & power but can accomodate other energy such as natural gas). Ultimately, the product will be accessible through the [home assistant](https://www.home-assistant.io)  interface and run on a raspberry pie.
@@ -45,9 +45,6 @@ An EU project where a 100% renewable energy system for Europe is being tested an
 
 ### TU-Nexus
 TU-Nexus is another project that uses [IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool) model to support the energy transition in Uzbekistan and Tajikistan. This project goes beyond the typical energy modelling work that we do to include the water-energy-land nexus in the deision making and operation of the hydropower system. This project is funded by the Finnish Ministry of Foreign Affairs.
-
-### 2IMatch
-This project, financed by the Research Council of Finland, is part of a strategic funding where the just energy transition is being evaluated. This project combines political science and governance in which [SpineOpt](https://doesvtt.github.io/doesvtt/our_tools/#spineopt) will be used to evaluate the justice of the energy system. We look at the country level and municipal level justice, including the environmental impact of the energy systems developed within this project.
 
 ## List of publications
 For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
