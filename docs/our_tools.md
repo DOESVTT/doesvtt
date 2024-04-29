@@ -731,17 +731,17 @@ Level of features: ★★★☆☆
 <svg
    width="20%"
    height="20%"
-   viewBox="0 0 57.160843 49.897453"
+   viewBox="0 0 1920 1080"
    version="1.1"
-   id="svg24194"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="Hertta_logo.svg"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Hertta_logov2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview24196"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -750,49 +750,65 @@ Level of features: ★★★☆☆
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="1.5376122"
-     inkscape:cx="253.64002"
-     inkscape:cy="81.945238"
+     inkscape:zoom="0.24097572"
+     inkscape:cx="3780.4639"
+     inkscape:cy="2962.9541"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="108"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs24191" />
-  <g
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-80.843272,-133.0514)">
-    <path
-       style="fill:#ffcc00;fill-opacity:1;stroke-width:0.264999"
-       d="m 95.628793,133.0514 h 17.711277 v 17.88619 l -5.92938,3.42334 v 11.72518 H 95.636395 Z"
-       id="path24389"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       style="fill:#d4aa00;fill-opacity:1;stroke-width:0.264999"
-       d="m 117.09646,142.21929 h 17.03534 v 24.34849 h -7.95843 v -11.83009 l -9.04798,-5.22386 z"
-       id="path25498" />
-    <text
+     id="layer1"><rect
+       style="fill:#ffda9b;fill-opacity:1;stroke:none;stroke-width:0.23636;stroke-linejoin:round;stroke-opacity:1"
+       id="rect2-3"
+       width="91.612808"
+       height="176.82048"
+       x="987.36096"
+       y="470.0979" /><rect
+       style="fill:#ffda9b;fill-opacity:1;stroke:none;stroke-width:0.23204;stroke-linejoin:round;stroke-opacity:1"
+       id="rect2-7"
+       width="91.612808"
+       height="170.41534"
+       x="878.71655"
+       y="523.48755" /><rect
+       style="fill:#ffda9b;fill-opacity:1;stroke:none;stroke-width:0.23204;stroke-linejoin:round;stroke-opacity:1"
+       id="rect2"
+       width="91.612808"
+       height="170.41534"
+       x="769.00415"
+       y="470.0979" /><path
+       id="path1"
+       style="fill:#fac700;fill-opacity:1;stroke:none;stroke-width:0.2696;stroke-linejoin:round"
+       d="M 933.20824,223.61629 A 239.49434,239.49434 0 0 0 693.71384,463.11072 239.49434,239.49434 0 0 0 933.20824,702.60463 239.49434,239.49434 0 0 0 1172.7026,463.11072 239.49434,239.49434 0 0 0 933.20824,223.61629 Z m 0,26.76994 A 212.72432,212.72432 0 0 1 1145.9327,463.11072 212.72432,212.72432 0 0 1 933.20824,675.83468 212.72432,212.72432 0 0 1 720.48374,463.11072 212.72432,212.72432 0 0 1 933.20824,250.38623 Z" /><path
+       id="path1-4"
+       style="fill:#ffda9b;fill-opacity:1;stroke:none;stroke-width:0.241633;stroke-linejoin:round;stroke-opacity:1"
+       d="M 933.20824,248.46042 A 214.6502,214.6502 0 0 0 718.55804,463.11069 214.6502,214.6502 0 0 0 933.20824,677.7605 214.6502,214.6502 0 0 0 1147.8584,463.11069 214.6502,214.6502 0 0 0 933.20824,248.46042 Z m 0,23.99293 A 190.65719,190.65719 0 0 1 1123.8654,463.11069 190.65719,190.65719 0 0 1 933.20824,653.76756 190.65719,190.65719 0 0 1 742.55094,463.11069 190.65719,190.65719 0 0 1 933.20824,272.45335 Z" /><path
+       style="fill:#fac700;fill-opacity:1;stroke:none;stroke-width:0.23204;stroke-linejoin:round;stroke-opacity:1"
+       d="M 770.70264,452.04708 H 1078.3431 L 924.42584,329.96137 Z"
+       id="path3" /><g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g4"
+       transform="matrix(0.26458333,0,0,0.26458333,389.67212,493.04703)"><g
+         id="g1"><path
+           fill="#000000"
+           d="m 2021.4834,-58.951689 c 5.4551,-10.541462 10.9838,-18.502844 17.7657,-24.031583 7.2979,-5.823605 15.9965,-8.698548 27.57,-8.698548 12.8267,0 24.4002,5.160156 32.8038,13.563838 8.4037,8.403682 13.5639,19.977174 13.5639,32.803846 0,45.77795203 -45.4831,67.376889 -90.9662,112.859975 -0.4423,0.442299 -1.032,0.442299 -1.4743,0 -45.4831,-45.483086 -90.9662,-67.08202297 -90.9662,-112.859975 0,-12.826672 5.1602,-24.400164 13.5638,-32.803846 8.4037,-8.403682 19.9772,-13.563838 32.8039,-13.563838 22.5572,0 34.1307,10.910043 45.3356,32.730131 z"
+           id="path1-3"
+           sodipodi:nodetypes="ccssssssssc"
+           style="fill:#ffcc00;fill-opacity:1;stroke-width:7.37165" /></g></g><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       x="279.60294"
-       y="666.81628"
-       id="text26330"
-       transform="matrix(1.1235061,0,0,1.1235061,-234.54311,-566.22331)"><tspan
+       style="font-weight:bold;font-size:175.082px;font-family:Gadugi;-inkscape-font-specification:'Gadugi, Bold';letter-spacing:2.02706px;fill:#000000;stroke-width:0.846539;stroke-linejoin:round"
+       x="676.36816"
+       y="876.20593"
+       id="text1"><tspan
          sodipodi:role="line"
-         id="tspan26328"
-         x="279.60294"
-         y="666.81628"
-         style="font-weight:bold;fill:#ffcc00;fill-opacity:1"
-         dx="0 0 0 0 0 0">HER<tspan
-   style="letter-spacing:-0.588745px"
-   id="tspan27265">TT</tspan>A</tspan></text>
-  </g>
-</svg>
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:175.082px;font-family:'MADE TOMMY';-inkscape-font-specification:'MADE TOMMY, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.846539"
+         x="676.36816"
+         y="876.20593">Hertta</tspan></text></g></svg>
 
 1. Predicer-based easy-to-use home energy asset optimization software
 2. In development, not published yet
