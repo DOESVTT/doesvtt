@@ -607,19 +607,17 @@ FlexTool 3: https://github.com/irena-flextool FlexTool 2: https://www.irena.org/
 ![Predicer_logo](assets/Predicer_logo.svg)
 
 <svg
-   width="15%"
-   height="10%"
-   viewBox="0 0 48.687477 42.652836"
+   width="82.09388mm"
+   height="78.671867mm"
+   viewBox="0 0 82.093879 78.671865"
    version="1.1"
    id="svg17439"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="Predicer_logo.svg"
-   inkscape:export-filename="Predicer_logo.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview17441"
