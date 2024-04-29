@@ -9,7 +9,7 @@
    id="Livello_1"
    width="25%"
    height="25%"
-   viewBox="0 0 1185.3994 670.63837"
+   viewBox="0 0 82.093879 78.671865"
    version="1.1"
    sodipodi:docname="MOPO_logo_spinetoolbox.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
