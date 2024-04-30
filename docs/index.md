@@ -21,7 +21,7 @@ Strategic Research funding on the Just Energy Transition where our team is looki
 
 ### EasyDR
 Enabling demand response through easy to use open source approach (EasyDR) is a research project where we are developping an affordable and open source energy management system for homes. It utilises the power of our VTT tool Predicer (see more in our tools lists) to manage and plan the utilisation of energy on different markets (heat & power but can accomodate other energy such as natural gas). Ultimately, the product will be accessible through the [home assistant](https://www.home-assistant.io)  interface and run on a raspberry pie.
-(find out more about the [EasyDR](https://cris.vtt.fi/en/projects/enabling-demand-response-through-easy-to-use-open-source-approach) project) #[Predicer](https://doesvtt.github.io/doesvtt/our_tools/#predicer)
+(find out more about the [EasyDR](https://cris.vtt.fi/en/projects/enabling-demand-response-through-easy-to-use-open-source-approach) project) [![Predicer Badge](https://img.shields.io/badge/Predicer-9BF082)]([https://doesvtt.github.io/doesvtt/our_tools/#predicer]
 
 ### Elexia
 The [Elexia](https://www.elexia-project.eu) focuses on the development of the energy system towards more digitalisation, in this project, we are continuing the development of operational tools and planning tools to 3 different pilot sites. The project will provide a standardised digital service platform where data can be brokered and unified through multiple software/model and smart gateways deployed on the fields. #[Predicer](https://doesvtt.github.io/doesvtt/our_tools/#predicer) #[SpineOpt](https://doesvtt.github.io/doesvtt/our_tools/#spineopt)
@@ -44,7 +44,7 @@ Hand in hand with the Finnish Environmental Institute (SYKE), we are working on 
 An EU project where a 100% renewable energy system for Europe is being tested and developed using [Backbone](https://doesvtt.github.io/doesvtt/our_tools/#backbone). #[Backbone](https://doesvtt.github.io/doesvtt/our_tools/#backbone)
 
 ### TU-Nexus
-TU-Nexus is another project that uses [IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool) model to support the energy transition in Uzbekistan and Tajikistan. This project goes beyond the typical energy modelling work that we do to include the water-energy-land nexus in the deision making and operation of the hydropower system. This project is funded by the Finnish Ministry of Foreign Affairs. #[IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool)
+TU-Nexus is another project that uses [IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool) model to support the energy transition in Uzbekistan and Tajikistan. This project goes beyond the typical energy modelling work that we do to include the water-energy-land nexus in the deision making and operation of the hydropower system. This project is funded by the Finnish Ministry of Foreign Affairs. [![FlexTool Badge](https://img.shields.io/badge/FlexTool-029DED)]([https://github.com/spine-tools/Spine-Toolbox/tree/master](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool))
 
 ## List of publications
 For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
