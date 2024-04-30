@@ -18,6 +18,7 @@ Some of our reference work includes:
 
 ### 2IMatch
 Strategic Research funding on the Just Energy Transition where our team is looking into the integration of energy grids through the different layers of the energy system, from local energy grids to the national network (when applied). It also assesses the different energy and carbon policy and their impact on the energy market to promote a just energy transition (find out more about the [2IMatch](https://www.aka.fi/en/strategic-research/strategic-research/strategic-research-in-a-nutshell/programmes-and-projects/just-energy/2imatch/) project)
+
 [![SpineOpt badge](https://img.shields.io/badge/SpineOpt-1B4AC2)](https://doesvtt.github.io/doesvtt/our_tools/#spineopt) 
 
 ### EasyDR
