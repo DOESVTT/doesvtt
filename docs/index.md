@@ -44,7 +44,8 @@ Hand in hand with the Finnish Environmental Institute (SYKE), we are working on 
 An EU project where a 100% renewable energy system for Europe is being tested and developed using [Backbone](https://doesvtt.github.io/doesvtt/our_tools/#backbone). #[Backbone](https://doesvtt.github.io/doesvtt/our_tools/#backbone)
 
 ### TU-Nexus
-TU-Nexus is another project that uses [IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool) model to support the energy transition in Uzbekistan and Tajikistan. This project goes beyond the typical energy modelling work that we do to include the water-energy-land nexus in the deision making and operation of the hydropower system. This project is funded by the Finnish Ministry of Foreign Affairs. [![FlexTool Badge](https://img.shields.io/badge/FlexTool-029DED)]([https://github.com/spine-tools/Spine-Toolbox/tree/master](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool))
+TU-Nexus is another project that uses [IRENA FlexTool](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool) model to support the energy transition in Uzbekistan and Tajikistan. This project goes beyond the typical energy modelling work that we do to include the water-energy-land nexus in the deision making and operation of the hydropower system. This project is funded by the Finnish Ministry of Foreign Affairs. 
+[![FlexTool badge](https://img.shields.io/badge/FlexTool-029DED)](https://doesvtt.github.io/doesvtt/our_tools/#irena-flextool)
 
 ## List of publications
 For full list of our ongoing and past projects, please visit: [publication in VTT](https://cris.vtt.fi/en/organisations/ba4206-design-and-operation-of-energy-systems/publications/)
