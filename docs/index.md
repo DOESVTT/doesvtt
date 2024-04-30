@@ -25,12 +25,12 @@ Strategic Research funding on the Just Energy Transition where our team is looki
 Enabling demand response through easy to use open source approach (EasyDR) is a research project where we are developping an affordable and open source energy management system for homes. It utilises the power of our VTT tool Predicer (see more in our tools lists) to manage and plan the utilisation of energy on different markets (heat & power but can accomodate other energy such as natural gas). Ultimately, the product will be accessible through the [home assistant](https://www.home-assistant.io)  interface and run on a raspberry pie.
 (find out more about the [EasyDR](https://cris.vtt.fi/en/projects/enabling-demand-response-through-easy-to-use-open-source-approach) project)
 
-[![Predicer badge](https://img.shields.io/badge/Predicer-9BF082)](https://doesvtt.github.io/doesvtt/our_tools/#predicer)
+[![Predicer badge](https://img.shields.io/badge/Predicer-9BF082)](https://doesvtt.github.io/doesvtt/our_tools/#predicer) [![Hertta badge](https://img.shields.io/badge/Hertta-FAC700)](https://doesvtt.github.io/doesvtt/our_tools/#hertta)
 
 ### Elexia
 The [Elexia](https://www.elexia-project.eu) focuses on the development of the energy system towards more digitalisation, in this project, we are continuing the development of operational tools and planning tools to 3 different pilot sites. The project will provide a standardised digital service platform where data can be brokered and unified through multiple software/model and smart gateways deployed on the fields. 
 
-[![Predicer badge](https://img.shields.io/badge/Predicer-9BF082)](https://doesvtt.github.io/doesvtt/our_tools/#predicer) [![SpineOpt badge](https://img.shields.io/badge/SpineOpt-1B4AC2)](https://doesvtt.github.io/doesvtt/our_tools/#spineopt) 
+[![Predicer badge](https://img.shields.io/badge/Predicer-9BF082)](https://doesvtt.github.io/doesvtt/our_tools/#predicer) [![SpineOpt badge](https://img.shields.io/badge/SpineOpt-1B4AC2)](https://doesvtt.github.io/doesvtt/our_tools/#spineopt) [![Hertta badge](https://img.shields.io/badge/Hertta-FAC700)](https://doesvtt.github.io/doesvtt/our_tools/#hertta)
 
 ### FlexiB
 [FlexiB](https://cris.vtt.fi/en/projects/integration-of-building-flexibility-into-future-energy-systems) project is funded by the Research Council of Finland (previously known as Academy of Finland) and investigate the flexibility of buildings in the energy system. With the use of our tool [Backbone](https://doesvtt.github.io/doesvtt/our_tools/#backbone), we are developing a building stock model to evaluate the flexibility of the electrically heatd buildings in Finland. Further development will include non-electric buildings. 
