@@ -42,4 +42,4 @@ jobs:
         with:
           feed_url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCuVczNc74_jsmgNlAhHbz-Q'
           template_file: './assets/template.md'
-          output_dir: '_posts/events/'
+          output_dir: './docs/'
