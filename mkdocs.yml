@@ -11,8 +11,8 @@ edit_uri: blob/master/docs/
 copyright: Copyright &copy; 2024 - 2024  VTT - Design and Operation of Energy Systems
 theme:
   name: material
-  logo: ../assets/DOES_Logo.png
-  favicon: ../assets/DOES_Logo.svg
+  logo: assets/DOES_Logo.png
+  favicon: assets/DOES_Logo.svg
   color_mode: auto
   user_color_mode_toggle: true
   locale: en
