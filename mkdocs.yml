@@ -27,7 +27,6 @@ nav:
   - Our Tools: our_tools.md
   - Hertta: Hertta.md
   - Tools Comparison: tool_comparison.md
-theme: readthedocs
 
 plugins:
   - mkdocs-video
