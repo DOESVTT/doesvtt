@@ -71,7 +71,7 @@ https://gitlab.vtt.fi/backbone/backbone
 [![FlexTool_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Firena-flextool.github.io%2Fflextool%2F)](https://irena-flextool.github.io/flextool/)
 [![FlexTool Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=git&link=https%3A%2F%2Fgithub.com%2Firena-flextool%2Fflextool)](https://github.com/irena-flextool/flextool)
 
-<img src="../assets/Logo_FlexTool.svg" alt="Logo_FlexTool.svg" style="zoom:15% ;" />
+<img src="../assets/Logo_FlexTool.svg" alt="Logo_FlexTool.svg" style="zoom:20% ;" />
 
 1. Fully open framework for energy system optimization models
 2. Focused on system planning for high shares of variable power generation in future energy systems
@@ -91,7 +91,7 @@ FlexTool 3: https://github.com/irena-flextool FlexTool 2: https://www.irena.org/
 [![Predicer_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fvttresearch.github.io%2FPredicer%2F)](https://predicer-tools.github.io/Predicer/)
 [![Predicer Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=git&link=https%3A%2F%2Fgithub.com%2Fvttresearch%2FPredicer%2Ftree%2Fmain)](https://github.com/predicer-tools/Predicer)
 
-<img src="../assets/Predicer_logo.svg" alt="Predicer_logo.svg" style="zoom:15% ;" />
+<img src="../assets/Predicer_logo.svg" alt="Predicer_logo.svg" style="zoom:20% ;" />
 
 1. "Predictive decider" - A fully open framework for real-time asset management on complex stocastic markets
 2. Supports models to maximize the revenue from the operation of existing assets an industrial site, a building or an energy storage
@@ -106,7 +106,7 @@ Level of features: ★★★☆☆
 
 ## Hertta
 
-<img src="../assets/Hertta_logo.svg" alt="Hertta_logo.svg" style="zoom:15% ;" />
+<img src="../assets/Hertta_logo.svg" alt="Hertta_logo.svg" style="zoom:20% ;" />
 
 1. Predicer-based easy-to-use home energy asset optimization software
 2. In development, not published yet
