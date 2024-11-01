@@ -91,7 +91,7 @@ FlexTool 3: https://github.com/irena-flextool FlexTool 2: https://www.irena.org/
 [![Predicer_docs](https://img.shields.io/badge/docs-main-green?logo=readthedocs&label=documentation&link=https%3A%2F%2Fvttresearch.github.io%2FPredicer%2F)](https://predicer-tools.github.io/Predicer/)
 [![Predicer Badge](https://img.shields.io/badge/docs-main-green?logo=github&label=git&link=https%3A%2F%2Fgithub.com%2Fvttresearch%2FPredicer%2Ftree%2Fmain)](https://github.com/predicer-tools/Predicer)
 
-<img src="../assets/Predicer_logo.svg" alt="Predicer_logo.svg" style="zoom:40% ;" />
+<img src="../assets/Predicer_logo.svg" alt="Predicer_logo.svg" style="zoom:50% ;" />
 
 1. "Predictive decider" - A fully open framework for real-time asset management on complex stocastic markets
 2. Supports models to maximize the revenue from the operation of existing assets an industrial site, a building or an energy storage
@@ -106,7 +106,7 @@ Level of features: ★★★☆☆
 
 ## Hertta
 
-<img src="../assets/Hertta_logov2.svg" alt="Hertta_logov2.svg" style="zoom:10% ;" />
+<img src="../assets/Hertta_logov2.svg" alt="Hertta_logov2.svg" style="zoom:8% ;" />
 
 1. Predicer-based easy-to-use home energy asset optimization software
 2. In development, not published yet
