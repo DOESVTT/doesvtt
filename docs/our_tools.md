@@ -106,7 +106,7 @@ Level of features: ★★★☆☆
 
 ## Hertta
 
-<img src="../assets/Hertta_logo.svg" alt="Hertta_logo.svg" style="zoom:20% ;" />
+<img src="../assets/Hertta_logov2.svg" alt="Hertta_logov2.svg" style="zoom:20% ;" />
 
 1. Predicer-based easy-to-use home energy asset optimization software
 2. In development, not published yet
