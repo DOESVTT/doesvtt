@@ -13,9 +13,13 @@
 4. Easy to share workflows and operate models without touching the code
 
 Maturity score: ★★★☆☆ 
+
 Availability score: ★★★★☆ 
+
 Ease of use: ★★★☆☆ 
+
 Level of flexibility: ★★★★★ 
+
 Level of features: ★★★★☆
 
 
